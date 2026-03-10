@@ -1,0 +1,39 @@
+Architectures: amd64 armhf i386
+Codename: stable
+Components: main
+Date: Tue, 10 Mar 2026 16:09:05 +0000
+Label: OpenFileBot
+Origin: OpenFileBot
+Suite: stable
+MD5Sum:
+ cd099239c9e3183459daf119c700a681              157 Release
+ 01dd9e1b0208a20717ff0f0b82af6344             4857 main/binary-amd64/Packages
+ 9dcc974d18f14aa2a2c2cc55c539d6f5             1484 main/binary-amd64/Packages.gz
+ 60245aded4880282723529fd578b61ca             4857 main/binary-armhf/Packages
+ 412fa31d37e007ff786ce87ce8627aa1             1487 main/binary-armhf/Packages.gz
+ 71659fab0f91ce9107ae6fa863f715f6             4847 main/binary-i386/Packages
+ 2a37a96d32db5c2048f5dcdb274ee8fd             1479 main/binary-i386/Packages.gz
+SHA1:
+ e33e4e67bff5f067d21aa167015ef87172d2d2b2              157 Release
+ 77e39c515829f8a3691347703e3ca5b421e504d8             4857 main/binary-amd64/Packages
+ 3d9ec0db5d3a218501113999adaa56034e5de152             1484 main/binary-amd64/Packages.gz
+ 0b84926296257dba70cb07c1725b5f8dfae0a73f             4857 main/binary-armhf/Packages
+ b6e93b30157a864a3b63290dab310eee96821797             1487 main/binary-armhf/Packages.gz
+ e2e792c7a9122535b32c8b06cf84600ef973538d             4847 main/binary-i386/Packages
+ 4086ae2b657a801de8e983194203aa0554d1b843             1479 main/binary-i386/Packages.gz
+SHA256:
+ faa843b37f1e8585152c3fc79adcf839dc73e8935746532b6a39f3fdc889fead              157 Release
+ 6ab122870709ca1dbcd9a7a2e71b62948aca0736c42cd66e2fff7054f53df452             4857 main/binary-amd64/Packages
+ 225e2553460c34342a5b6dbf38f70c8b96d1c412eade6b09d91bf30e63453b9c             1484 main/binary-amd64/Packages.gz
+ 016cc486c35ef453db70311909c8cf932b41a5cd73bc98dc04103fac45facb88             4857 main/binary-armhf/Packages
+ cfd5b033168c5781ed783b10b44be579c1b55701f50180324d6b5fa573f1d630             1487 main/binary-armhf/Packages.gz
+ 7641a3d5e474d1674f44465df6de91b3abb3de33384231832ce3711506c1b51b             4847 main/binary-i386/Packages
+ 0b53329068962f44eca0e71c86bf18ba247a079f40d90ddffc36d2a3d961b267             1479 main/binary-i386/Packages.gz
+SHA512:
+ 4b3cd7a95cb9bcfbc6b6331c1ffb775cc55ce41912fd3e086b865bb3e0183113f882f75a5afa57df4a46f14fdd28d0092e348203833ec25d5c74df2d3ad9b91a              157 Release
+ 0616082348942a2f0c14ff495ce6fa05179e5be24bb8dd489084ca157568a3cfefd7c1bf1248cd63aaa5a691e25e949d59c2dd97c09dccbbf3ed8168b9397ec9             4857 main/binary-amd64/Packages
+ adeb887c1c905ce657e6468c64111965cb058aa7f4940b69f5378b24ff1b67136855a643d5d1f50973b5985da665171c0fca5681aab3797f859df4a50dc8c8d3             1484 main/binary-amd64/Packages.gz
+ 7c5171c7d7d48280514164dbbb6caa28e08ffc0f34ab1ffba4b38a748de297434756d082e1c31eff50b32e5300de8c27670cadd5dcefa7f1a89d89af6ec2a441             4857 main/binary-armhf/Packages
+ 77da4e0bf27b541c8e8eebee8d424b9116a76222028a94133a3849a7ea730c713fa6cf93815874f193fa097d7d4cb7023fd61e3bd9e6919161bc26f09986bf2d             1487 main/binary-armhf/Packages.gz
+ 51a8591ea772bc427492541c676f5a28fe73d95fc07879517a97998c0996bde4b13d24ea1ba4bc3c0dc8aeae13f8c3a68ff1108b1c725a561ad4ef6cdfe87f62             4847 main/binary-i386/Packages
+ 5b016ccdc94fd24688f2b0fa8c9d92cef44be32707040ec7cb65872b3418ebc3a6aba4b12c22166c7487bd8454fbe18dce71d9eedd974a8b0f3085ccce5d0ebb             1479 main/binary-i386/Packages.gz
