@@ -78,6 +78,7 @@ done < "${WORK_DIR}/testing-tags.txt"
 
 generate_dist() {
   local dist="$1"
+  local pool_rel="pool/${dist}"
   local pool_dir="${APT_DIR}/pool/${dist}"
   local dists_root="${APT_DIR}/dists/${dist}"
   local component_dir="${dists_root}/main"
@@ -97,7 +98,7 @@ generate_dist() {
   for arch in ${arches}; do
     local arch_dir="${component_dir}/binary-${arch}"
     mkdir -p "${arch_dir}"
-    apt-ftparchive -a "${arch}" packages "${pool_dir}" > "${arch_dir}/Packages"
+    (cd "${APT_DIR}" && apt-ftparchive -a "${arch}" packages "${pool_rel}") > "${arch_dir}/Packages"
     gzip -n -9 -f -c "${arch_dir}/Packages" > "${arch_dir}/Packages.gz"
   done
 
