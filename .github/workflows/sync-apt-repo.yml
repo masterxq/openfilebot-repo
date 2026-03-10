@@ -1,9 +1,9 @@
 name: Sync OpenFileBot APT Repo
 
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [source_release_published]
 
 permissions:
   contents: write
