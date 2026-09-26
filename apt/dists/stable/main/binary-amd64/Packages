@@ -1,0 +1,100 @@
+Package: openfilebot
+Architecture: amd64
+Version: 0.9.4
+Priority: extra
+Section: utils
+Maintainer: MasterxQ <masterxq@users.noreply.github.com>
+Installed-Size: 121136
+Depends: libchromaprint-tools, libjna-jni, libmediainfo0v5, libzen0v5 | libzen0t64
+Suggests: openjdk-21-jre | openjdk-22-jre | openjdk-23-jre | openjdk-24-jre | openjdk-25-jre, openjfx
+Enhances: nautilus-actions
+Filename: pool/stable/openfilebot_0.9.4_amd64.deb
+Size: 26697180
+MD5sum: 6934fd9c30805f7f57a4dd09608c9b31
+SHA1: 07283d6ac833270fb3adcd23de9339bb663f15a5
+SHA256: 7aea37ea7e7b07a7cafc413f3834272f768e14231d4810ba085825b9afff7854
+SHA512: 28d8f2287742a6c83dcadac4e464ac9af435214e734ec4a267d803d8023fe73ee2be8a097d17d846e95ccbc218b225acb61186e965a21a6f235b94db2b6fb38c
+Homepage: https://github.com/masterxq/openfilebot
+Description: The ultimate TV and Movie Renamer
+ OpenFileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+
+Package: openfilebot
+Architecture: amd64
+Version: 0.9.5
+Priority: extra
+Section: utils
+Maintainer: MasterxQ <masterxq@users.noreply.github.com>
+Installed-Size: 121136
+Depends: libchromaprint-tools, libjna-jni, libmediainfo0v5, libzen0v5 | libzen0t64
+Suggests: openjdk-21-jre | openjdk-22-jre | openjdk-23-jre | openjdk-24-jre | openjdk-25-jre, openjfx
+Enhances: nautilus-actions
+Filename: pool/stable/openfilebot_0.9.5_amd64.deb
+Size: 26692390
+MD5sum: 1a6b39f1837b0acab8202e100da9fafa
+SHA1: e7da4e7092b5a6a8268f89c07efc75d78d6ead5b
+SHA256: 0d08bc1d126c279ef2b726fbc40852caf5054cd625be73f5073829dc28a7b65c
+SHA512: 1e311eda499f6a22b82430acddac1b668e771e30661cb43c163af1e9927b4b167c247a320b9218013f8a027a80b81bc9f1f610988654e195ca3047f0c2d7c193
+Homepage: https://github.com/masterxq/openfilebot
+Description: The ultimate TV and Movie Renamer
+ OpenFileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+
+Package: openfilebot
+Architecture: amd64
+Version: 0.9.6
+Priority: extra
+Section: utils
+Maintainer: MasterxQ <masterxq@users.noreply.github.com>
+Installed-Size: 121137
+Depends: libchromaprint-tools, libjna-jni, libmediainfo0v5, libzen0v5 | libzen0t64
+Suggests: openjdk-21-jre | openjdk-22-jre | openjdk-23-jre | openjdk-24-jre | openjdk-25-jre, openjfx
+Enhances: nautilus-actions
+Filename: pool/stable/openfilebot_0.9.6_amd64.deb
+Size: 26692764
+MD5sum: 0481b32179bf917365956fb9034e7586
+SHA1: d64f9d9a904d26527f938e3cc9f3e2ac39cd4ed0
+SHA256: 9c22810d99639324a375ce6685489ef868152d6753544ce2dd36bf20570937ce
+SHA512: 037d9e563754cd02e830a6f77fad6977964df297ce7651e310d1b423a1b6e1dc5261d719405d7ff885c61f4c2e60511e3df6240b1b420b64640612f1aab951e9
+Homepage: https://github.com/masterxq/openfilebot
+Description: The ultimate TV and Movie Renamer
+ OpenFileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+
+Package: openfilebot
+Architecture: amd64
+Version: 0.9.7
+Priority: extra
+Section: utils
+Maintainer: MasterxQ <masterxq@users.noreply.github.com>
+Installed-Size: 121141
+Depends: libchromaprint-tools, libjna-jni, libmediainfo0v5, libzen0v5 | libzen0t64
+Suggests: openjdk-21-jre | openjdk-22-jre | openjdk-23-jre | openjdk-24-jre | openjdk-25-jre, openjfx
+Enhances: nautilus-actions
+Filename: pool/stable/openfilebot_0.9.7_amd64.deb
+Size: 26689738
+MD5sum: 4e059a535ebb181f8b006e0843af67de
+SHA1: 2a5fa6a96385d4920573352275ae796628c27248
+SHA256: 8aad87a95703ac2035c098162942f07ef254e8467472bdee2158ae6b5cc1ce4d
+SHA512: 254795469170552f462baca8bc93c92c001ec9d6aa95ddc9b5368168088a31d1fce6108c60fc4cb96fefb3b91309347aa0cac3c9b38f3283c99eb365416ca122
+Homepage: https://github.com/masterxq/openfilebot
+Description: The ultimate TV and Movie Renamer
+ OpenFileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+
+Package: openfilebot
+Architecture: amd64
+Version: 0.9.8
+Priority: extra
+Section: utils
+Maintainer: MasterxQ <masterxq@users.noreply.github.com>
+Installed-Size: 121141
+Depends: libchromaprint-tools, libjna-jni, libmediainfo0v5, libzen0v5 | libzen0t64
+Suggests: openjdk-21-jre | openjdk-22-jre | openjdk-23-jre | openjdk-24-jre | openjdk-25-jre, openjfx
+Enhances: nautilus-actions
+Filename: pool/stable/openfilebot_0.9.8_amd64.deb
+Size: 26698582
+MD5sum: 29161a2b8f1f349fbf74ac9f5fd5e201
+SHA1: 3679b38d29e7b7b326edc2a1ee822189c9eb873a
+SHA256: 32edd39bd7271823e3407d2f6fff7096801fddbb24072d6f68d177fdd5293a3e
+SHA512: d4c6bc9a703498c9a9118c0951efde9646e17f19fa7599f6ade2583a56ded7ac7f76bdd641df90a31e6ea885aef54346818ebd0a0cc3d752a4348734deae96f3
+Homepage: https://github.com/masterxq/openfilebot
+Description: The ultimate TV and Movie Renamer
+ OpenFileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+

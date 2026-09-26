@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 armhf i386
+Codename: stable
+Components: main
+Date: Sat, 26 Sep 2026 21:08:20 +0000
+Label: OpenFileBot
+Origin: OpenFileBot
+Suite: stable
+MD5Sum:
+ 8243587de912f33653d0ddb21baa319d              157 Release
+ 701801cedcc6a5c6ba2d7f068214788d             5020 main/binary-amd64/Packages
+ a3d270d73d171a3b659cd5be7556c2ee             1438 main/binary-amd64/Packages.gz
+ 91732a26b90c38aa4fb27929d6d4785a             5020 main/binary-armhf/Packages
+ 983b11619f78d68bda92c1d6f8caec74             1440 main/binary-armhf/Packages.gz
+ 5b6fdf5aabb6b2f1eac1b8a133ace271             5010 main/binary-i386/Packages
+ 613861ebbefa8ea98cf95ba1dff29c7a             1430 main/binary-i386/Packages.gz
+SHA1:
+ 9ee69c75b2a702d8ff066776dc2ef130bd75850b              157 Release
+ aca0913595818bf5a25eddaf51a022c5c809ebed             5020 main/binary-amd64/Packages
+ 0ab0f1bacc3be2f8a3d178e758ee3ffee5db6ee3             1438 main/binary-amd64/Packages.gz
+ 438d73a0e10040122468c0e07c3cce2e77d5b43f             5020 main/binary-armhf/Packages
+ c38cf8f4b40c3f39636ff4b0ae53ba985458e56e             1440 main/binary-armhf/Packages.gz
+ 05c8459a9385f27068451c0b1c4330dec76d6228             5010 main/binary-i386/Packages
+ 55952286c1f144a6aaa513b586fe9de2a6f0f2d0             1430 main/binary-i386/Packages.gz
+SHA256:
+ aec2cb6b983d6a71d33a9f262147a3617c94a6c4315d114eb0c8690722bd33e0              157 Release
+ 67605d9ae8ea060c30a5206be7adc54e2e94c058444195704174c0203cbd07ff             5020 main/binary-amd64/Packages
+ cbf967755a3cf2eee8317b2b6da2599eeb2a8107c5925e981a5825462fcfca9d             1438 main/binary-amd64/Packages.gz
+ 96bafa8f72887cf11a86117e943ba52aef63952430ee4b17d21b5bfe2207e28b             5020 main/binary-armhf/Packages
+ 38f1137170e0218bd89add6bb0881f4cb2111909cfc283073f89c2cc8dd8b0ae             1440 main/binary-armhf/Packages.gz
+ 55292ddf64cd08ed0bf4b827b7477d48d175333f9039864c74a695644d5e2102             5010 main/binary-i386/Packages
+ a1afb605b47277bfaaf326c74e3b7cd1d1229bd349803a451b4e5f039e7023cc             1430 main/binary-i386/Packages.gz
+SHA512:
+ 23dabce81a578a2d4b83d83b27c6fcdb8f97dcaa61c4b1bafea72fed5b759dbe70c531f40bef272db1dd7bbf18e08c9700a044818b85f7fc07171a7209b40e23              157 Release
+ 85a3e53076bd83f2ba8d0c0b2114bb34e7f10f034a1c8db150930c53b320dedccfb22460886708f9084b09308c1cb7ad8b845722a32da2efbd191ab70f5747e3             5020 main/binary-amd64/Packages
+ 9b5682e1907c2742aa051128f7dfae3199a3e9db4c76150a55a4ce63ecc4da236d10c7e4f414d2cd28b6c9898e29aed90f6193c1743a33b4b9a1b79b71647259             1438 main/binary-amd64/Packages.gz
+ a8a6569c5d4199b191e342b13aa1f9c2ffb5c322662f6a3eb0699458c6b82d46fd6b206adba4b28d992fcb4161faffd0c152121dce9e8710045966ac385264dc             5020 main/binary-armhf/Packages
+ 6c48be6095e64989052c425a48b236018f8be73cc21413754143acae8e044bf865ffc4ae07418e9d5f13477d9c87bc516da08dee71e9d45b461229392e351ad5             1440 main/binary-armhf/Packages.gz
+ 943795b9ac7b5abb434389d319ed7905934411c934a809c954c8ea506a00add63bbd167f5777ebf9b2fc8027778b0d9769bd98b2fb9caec89752dafc7e4f890a             5010 main/binary-i386/Packages
+ 01c211b7262d4b625376381c6c5c9b529be45ed3e50f813b30b5f3c5bbb3b8745b7e6194f088242eafdaf94682f630029abdbcb040594e99575ad1098a6ebbeb             1430 main/binary-i386/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEjPRe07D9xtmS81WAh/tIK17vr/YFAmq4NEUACgkQh/tIK17v
+r/bHmQ/+IBBwWF0iQvC6rfUNK5Dwb+LvD0PvMWyOZK3dsMt6LddzGxNWHM39dJKl
+hg1PY/fDTb7XqdwqhgH3vYkD5eODPFGo/XqcWrFsi6gtBT0HUJRMKrDG+8axc7bK
+DL7YEkBakpYMZyCY1U3TKo5QGee9aTcRV5x4WV5Wxcubd5Pp1OS93xGb8Xdims25
+lbel04cPpi7YvbqrWVomittTucJVyEL1xm/xxdd7Ejy742NFk7figuJD+9pHMXdc
+qVwMAh4x4whCNXg94p8KkkpaKgrQB+S0XHvVzNcHKXVCIhZfYT5HOab/LXKZWip9
+p1jFS1kRZ26U8SRWkaRLtDJt5MiDy2pgbd+M6erhudYmuM9Iux+Ss8q42saXgvO4
+Hh2BimLN+xBjgI5rOEhy0bOxDTmHVwfzFetlC3yGTzVhFqxjmrnvOup2fRgad/p8
+7TFtf8NA4k1YYeqjNSW3cJElSFWgKAlrUzLRDgVB4h3g6hLLmcUcX4c7ouuuKthR
+WzncqQf5uESwcEKMidMDmwGcOg0eg9GKpZPL42hP0V3g+BaZlb1FsxF6bw8xyKJS
+uPe2hlGqMut9d+caURVXh2cbLDMr9l8q3gG4FJZcABDc4ZGUPzHEQMxcXG3zO//j
+lRBbyLewJi90tAebcBdLAy+9STuJ6m5agCbRSt3sVBsdBYI6QMo=
+=IYFs
+-----END PGP SIGNATURE-----
